@@ -170,7 +170,7 @@ The Entity-Relationship (ER) model defines the structure and relationships of en
 
 The Relational Model represents the database tables and their relationships, including attributes, primary keys, and foreign keys.
 
-![Relational Model](./docs/relational-model.png)
+![Relational Model](./docs/relational_model.png)
 
 ---
 
